@@ -1,7 +1,7 @@
 # Build Guide
 this is build guide for ilwol.
 
-the build guide contains build of prototype version. newest version have following differences:
+the build guide contains photo of prototype version. newest version have following differences:
 
 - the corner screws of outside top are moved 1u inside, so do the PCB design.
 
@@ -17,88 +17,78 @@ Prepare two PCBs for the ilwol. Since these are reversible PCBs, be careful to p
 
 The side where components will be placed is treated as the back, and the side without components is treated as the front. **All components go on back side only, so please be careful when soldering.**
 
-![ilwolbuildPCB0](../images/ilwolbuildPCB0.jpg)
-![ilwolbuildPCB1](../images/ilwolbuildPCB1.jpg)
+![ilwolPCBway2](../images/ilwolPCBway2.jpg)
 
 # Soldering the Diodes
-Solder the diodes. The builds show SMD diodes being used, but THT diodes can also be used.
+Solder the diodes. The photos show SMD diodes being used, but THT diodes can also be used.
 
-When using SMD diodes, first apply a solder blob to one side of the pad with a soldering iron, as shown in the following build.
+In the photo, the hot-swap sockets are soldered first, but I recommend soldering the diodes first.
 
-![ilwolbuildDiode0](../images/ilwolbuildDiode0.jpg)
+When using SMD diodes, first apply a solder blob to one side of the pad with a soldering iron, as shown in the following photos.
+
+![ilwolBuildDiodes1](../images/ilwolBuildDiodes1.jpg)
+![ilwolBuildDiode2](../images/ilwolBuildDiodes2.jpg)
 
 Reheat the solder blob with the iron to melt it, align the diode in the correct orientation and place it in position, then remove the iron.
 
-![ilwolbuildDiode1](../images/ilwolbuildDiode1.jpg)
+![ilwolBuildDiode3](../images/ilwolBuildDiodes3.jpg)
 
 Once it is seated properly, solder the opposite leg.
 
-![ilwolbuildDiode2](../images/ilwolbuildDiode2.jpg)
+![ilwolBuildDiode4](../images/ilwolBuildDiodes4.jpg)
 
 # Soldering the Hot-swap Sockets
 Solder the hot-swap sockets. The process is largely the same as soldering the diodes and LEDs.
 
 As before, apply a solder blob to one side of the pad, reheat the blob to melt it, place the component and hold it in position, remove the iron, then solder the opposite leg.
 
-![ilwolbuildHotswap0](../images/ilwolbuildHotswap0.jpg)
-![ilwolbuildHotswap1](../images/ilwolbuildHotswap1.jpg)
+![ilwolBuildSocket2](../images/ilwolBuildSocket2.jpg)
+![ilwolBuildSocket4](../images/ilwolBuildSocket3.jpg)
 
-# Soldering the TRRS Jack
-Refer to the following builds to identify where the TRRS jack will be placed.
+# Soldering the TRRS Jack and the Jumper
+Refer to the following photos to identify where the TRRS jack will be placed. The jack will be placed on back side, so you may solder that on front side.
 
-![ilwolbuildJack0](../images/ilwolbuildJack0.jpg)
-![ilwolbuildJack1](../images/ilwolbuildJack1.jpg)
+![ilwolBuildJack1](../images/ilwolBuildJack1.jpg)
+![ilwolBuildJack2](../images/ilwolBuildJack2.jpg)
 
-Solder the TRRS jack. When soldering the Tip and Sleeve pins, also bridge them to the adjacent pads as shown in the build.
+Solder the TRRS jack. When soldering the Tip and Sleeve pins, also bridge them to the adjacent pads as shown in the photo.
 
-![ilwolbuildJack2](../images/ilwolbuildJack2.jpg)
+And, On the front side seen when soldering the jack, bridge the jumpers located aside. Apply enough solder so that a blob forms on top.
+
+![ilwolBuildJack3](../images/ilwolBuildJack3.jpg)
 
 # Soldering the Dev Board
 First, check the header pins on the provided Pro Micro dev board. The outermost row of header pins past 5V is not needed, so trim them off.
 
-![ilwolbuildDevboard0](../images/ilwolbuildDevboard0.jpg)
-![ilwolbuildDevboard1](../images/ilwolbuildDevboard1.jpg)
+![BuildBoard0](../images/BuildBoard0.jpg)
+![BuildBoard1](../images/BuildBoard1.jpg)
 
-Insert the header pins starting from 5V, align them, and solder the dev board. When soldering, make sure the components face upward as shown in the build.
+Insert the header pins starting from 5V, align them, and solder the dev board. When soldering, make sure the components face upward as shown in the photo.
 
-![ilwolbuildDevboard2](../images/ilwolbuildDevboard2.jpg)
-![ilwolbuildDevboard3](../images/ilwolbuildDevboard3.jpg)
+![BuildBoard2](../images/BuildBoard2.jpg)
+![BuildBoard3](../images/BuildBoard3.jpg)
 
 Place the dev board with the soldered header pins on top of the already-soldered hot-swap sockets. Press down firmly to ensure a tight fit.
 
-![ilwolbuildDevboard4](../images/ilwolbuildDevboard4.jpg)
-![ilwolbuildDevboard5](../images/ilwolbuildDevboard5.jpg)
+![ilwolBuildBoard1](../images/ilwolBuildBoard1.jpg)
+![ilwolBuildBoard2](../images/ilwolBuildBoard2.jpg)
 
 Just like when soldering the TRRS jack pins, bridge the header pins to the adjacent pads as if soldering jumpers. Since a large amount of solder is used, there is a risk of bridging with flux, so be sure to clean the area with alcohol after soldering.
 
-![ilwolbuildDevboard6](../images/ilwolbuildDevboard6.jpg)
-
-# Soldering the Jumpers
-On the front side seen when soldering the dev board, bridge the jumpers located just below. Apply enough solder so that a blob forms on top.
-
-![ilwolbuildJumper0](../images/ilwolbuildJumper0.jpg)
-![ilwolbuildJumper1](../images/ilwolbuildJumper1.jpg)
+![ilwolBuildBoard4](../images/ilwolBuildBoard3.jpg)
 
 # Check before Assembly
-a finished right side of PCB looks like following images. mirror it on the left side.
+a finished right side of PCB looks like a following image.
 
-the build didn't jumped the front jumper, but you may jump there if you building wired version.
-
-![ilwolbuildPCBFinish0](../images/ilwolbuildPCBFinish0.jpg)
-![ilwolbuildPCBFinish1](../images/ilwolbuildPCBFinish1.jpg)
+![ilwolBuildAssembly](../images/ilwolBuildAssembly.jpg)
 
 # Assembly
-First, assemble the case, plate, and switches together. (Note: If you assemble the plate, switches, and PCB first, the assembly will not fit into the case.)
-The plate and case are fastened together with screws at four points.
+First, assemble plate and switches together with proper direction, and assemble PCB on it.
 
-![ilwolbuildAssembly0](../images/ilwolbuildAssembly0.jpg)
-![ilwolbuildAssembly1](../images/ilwolbuildAssembly1.jpg)
+![ilwolBuildKeyswitches1](../images/ilwolBuildKeyswitches1.jpg)
+![ilwolBuildKeyswitches2](../images/ilwolBuildKeyswitches2.jpg)
 
-Insert the protruding part of the TRRS jack into the hole in the case, then lower the PCB onto the switches to mate them together.
+Place the plate assembly over the case and fasten it with screws at eight points per side to complete the build. also, you may add four bumpons on the bottom of the case.
 
-![ilwolbuildAssembly2](../images/ilwolbuildAssembly2.jpg)
-![ilwolbuildAssembly3](../images/ilwolbuildAssembly3.jpg)
-
-Place the backplate over the case and fasten it with screws at eight points per side to complete the build.
-
-![ilwolbuildAssembly4](../images/ilwolbuildAssembly4.jpg)
+![ilwolBuildFinish1](../images/ilwolBuildFinish1.jpg)
+![ilwolBuildFinish2](../images/ilwolBuildFinish2.jpg)
