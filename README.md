@@ -1,4 +1,60 @@
 # ilwol
-row staggered 60% keyboard with reversible PCB, sibling of phalwol
+row staggered 60% hotswappable keyboard with reversible PCB, sibling of phalwol
 
-84x hotswap socket
+this keyboard have hotswap-only PCB.
+
+## Preparation
+
+- 2x pro micro form factor dev board
+
+- 2x ilwol PCB Boards, provided from the repo
+
+- 1x printed case sets, 2 parts total, provided from the repo (for thicker case, use "buffed")
+
+- 1x 1.5-1.6T keyboard plate sets, 2 parts total, provided from the repo
+
+- 80x diodes, normally 1N4148
+
+- 84x Kailh hotswap sockets (or compatibles)
+
+- 16x M2x6 screws, flathead
+
+- 2x PJ320A 1/8(3.5mm) TRRS connector
+
+- 2x 4x4x1.5mm surface mount tact switches (optional, for dev boards without reset button)
+
+- 1x 1/8(3.5mm) TRRS cable
+
+- 1-6x PCB Mounted 2u Keyboard Stabilizers, normally 6
+
+- 73-78x MX Keyswitches, normally 73
+
+- 8x 10mm bumpon stickers
+
+- A set of Keycaps, Full-size layout, ANSI preferred.
+
+## Default Keymap and Keycaps
+
+There are three more layers - Fn, Utils - which can be noticed by the color legends. ◇ Means Transparent; which uses base keymap.
+
+Holding the color legend key swaps the layer.
+
+## Build Guides and Miscellaneous
+
+[ilwol Build Guide](docs/buildGuide.md)
+
+there's some notices before the build:
+
+- You may solder all hotswaps before soldering the dev board.
+
+- Assemble dev board with 2.5mm height pin headers on back side, assume that components side are faced up.
+
+- Jump every jumpers on front side.
+
+## Licenses
+
+all codes follow MIT license.
+
+all designs and the hardware board follow CC BY-SA 4.0 license.
+
+If you want to make a commercial product, it would be appreciated if you sponsor some bucks for me.
