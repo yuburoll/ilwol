@@ -78,7 +78,7 @@ Just like when soldering the TRRS jack pins, bridge the header pins to the adjac
 ![ilwolBuildBoard4](../images/ilwolBuildBoard3.jpg)
 
 # Check before Assembly
-a finished right side of PCB looks like a following image.
+The finished PCBs looks like a following image.
 
 ![ilwolBuildAssembly](../images/ilwolBuildAssembly.jpg)
 
