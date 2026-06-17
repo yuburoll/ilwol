@@ -1,5 +1,9 @@
+![ilwol](images/ilwolPhotoProfile.jpg)
+
 # ilwol
-row staggered 60% hotswappable keyboard with reversible PCB, sibling of phalwol
+row staggered 60% hotswappable keyboard with reversible PCB, sibling of [phalwol](https://github.com/yuburoll/phalwol)
+
+The name ilwol is January in Korean.
 
 this keyboard have hotswap-only PCB.
 
@@ -50,6 +54,10 @@ there's some notices before the build:
 - Assemble dev board with 2.5mm height pin headers on back side, assume that components side are faced up.
 
 - Jump every jumpers on front side.
+
+Also take a look at the sibiling, [phalwol](https://github.com/yuburoll/phalwol).
+
+![phalilwol](images/phalilwol1.jpg)
 
 ## Licenses
 
