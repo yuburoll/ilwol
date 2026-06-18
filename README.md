@@ -55,17 +55,19 @@ there's some notices before the build:
 
 - Jump every jumpers on front side.
 
+Also take a look at the sibiling, [phalwol](https://github.com/yuburoll/phalwol).
+
+![phalilwol](images/phalilwol1.jpg)
+
+## Sponsorship Notice
+
 This project is sponsored by [PCBway](https://www.pcbway.com/), where I ordered prototype PCB.
 
 Their detailed reviewing service was fast and great. I think it will be worth the money for commercial prototyping.
 
-And, they provide complex options for both PCB and PCBA, which are necessary for some high-end, important projects.
+And, they provide complex options(like matte coating on PCB, which pretty surprised me) for both PCB and PCBA, which are necessary for some high-end, important projects.
 
 ![ilwolPCBway1](images/ilwolPCBway1.jpg)
-
-Also take a look at the sibiling, [phalwol](https://github.com/yuburoll/phalwol).
-
-![phalilwol](images/phalilwol1.jpg)
 
 ## Licenses
 
