@@ -75,4 +75,6 @@ all codes follow MIT license.
 
 all designs and the hardware board follow CC BY-SA 4.0 license.
 
+Markdown documents and photos in docs/images folder are copyrighted, all rights reserved.
+
 If you want to make a commercial product, it would be appreciated if you sponsor some bucks for me.
