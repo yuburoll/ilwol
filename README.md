@@ -39,7 +39,7 @@ ilwol can change layout to followings:
 
 - 16x M2x6 screws, flathead
 
-- 2x PJ320A 1/8(3.5mm) TRRS connector
+- 2x PJ320A 1/8(3.5mm) TRRS connector (MJ-4PP-9 in other name)
 
 - 2x 4x4x1.5mm surface mount tact switches (optional, for dev boards without reset button)
 
