@@ -7,7 +7,7 @@ The name ilwol is January in Korean.
 
 this keyboard have hotswap-only PCB.
 
-ilwol can change some layout to followings:
+ilwol can change layout to followings:
 
 - Split left shift, to ISO shaped one.(2.25u to 1.25u/1u)
 
