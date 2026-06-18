@@ -7,7 +7,7 @@ The name ilwol is January in Korean.
 
 this keyboard have hotswap-only PCB.
 
-![ilwolBuildAssembly1](../images/ilwolBuildAssembly.jpg)
+![ilwolBuildAssembly](images/ilwolBuildAssembly.jpg)
 
 ## Preparation
 
