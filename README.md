@@ -37,12 +37,6 @@ this keyboard have hotswap-only PCB.
 
 - A set of Keycaps, Full-size layout, ANSI preferred.
 
-## Default Keymap and Keycaps
-
-There are three more layers - Fn, Utils - which can be noticed by the color legends. ◇ Means Transparent; which uses base keymap.
-
-Holding the color legend key swaps the layer.
-
 ## Build Guides and Miscellaneous
 
 [ilwol Build Guide](docs/buildGuide.md)
