@@ -5,7 +5,7 @@ row staggered 60% hotswappable keyboard with reversible PCB, sibling of [phalwol
 
 The name ilwol is January in Korean.
 
-This keyboard has additional Y/H/B keys which positioned between keyboards, and auxilary row at left outside. you may put the keycaps from numpad.
+This keyboard has additional Y/H/B keys which positioned between keyboards, and auxilary row at left outside. You may put the keycaps from numpad.
 
 This keyboard has hotswap-only PCB.
 
@@ -65,7 +65,7 @@ there's some notices before the build:
 
 - Jump every jumpers on front side.
 
-Also take a look at the sibiling, [phalwol](https://github.com/yuburoll/phalwol).
+Also take a look at the sibling, [phalwol](https://github.com/yuburoll/phalwol).
 
 ![phalilwol](images/phalilwol1.jpg)
 
