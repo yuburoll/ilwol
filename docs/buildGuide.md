@@ -82,6 +82,10 @@ The finished PCBs looks like a following image.
 
 ![ilwolBuildAssembly](../images/ilwolBuildAssembly.jpg)
 
+If you're a keyboard enthusiast, I'd recommend installing stabilizers at keycap positions 2u or larger, as shown in the following photo.
+
+![ilwolBuildStabilizer](../images/ilwolBuildStabilizer.jpg)
+
 # Assembly
 First, assemble plate and switches together with proper direction, and assemble PCB on it.
 
