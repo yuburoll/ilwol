@@ -61,7 +61,7 @@ This project is sponsored by [PCBway](https://www.pcbway.com/), where I ordered 
 
 Their detailed reviewing service was fast and great. I think it will be worth the money for commercial prototyping.
 
-And, they provide complex options(like matte coating on PCB, which pretty surprised me) for both PCB and PCBA, which are necessary for some high-end, important projects.
+And, they provide complex options (like matte coating on PCB, which pretty surprised me) for both PCB and PCBA, which are necessary for some high-end, important projects.
 
 ![ilwolPCBway1](images/ilwolPCBway1.jpg)
 
