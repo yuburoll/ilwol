@@ -77,7 +77,7 @@ Just like when soldering the TRRS jack pins, bridge the header pins to the adjac
 
 ![ilwolBuildBoard4](../images/ilwolBuildBoard3.jpg)
 
-# Check amd flash firmware before Assembly
+# Check PCB and flash firmware before Assembly
 The finished PCBs looks like a following image.
 
 ![ilwolBuildAssembly](../images/ilwolBuildAssembly.jpg)
