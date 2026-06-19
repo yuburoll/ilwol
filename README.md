@@ -29,7 +29,7 @@ ilwol can change layout to followings:
 
 - 2x ilwol PCB Boards, provided from the repo
 
-- 1x printed case sets, 2 parts total, provided from the repo (for thicker case, use "Buffed". want more on side? use "roundBuffed")
+- 1x printed case sets, 2 parts total, provided from the repo (for thicker case, use "Buffed". want more? use "roundBuffed")
 
 - 1x 1.5-1.6T keyboard plate sets, 2 parts total, provided from the repo
 
