@@ -77,7 +77,7 @@ Just like when soldering the TRRS jack pins, bridge the header pins to the adjac
 
 ![ilwolBuildBoard4](../images/ilwolBuildBoard3.jpg)
 
-# Check before Assembly
+# Check PCB and flash firmware before Assembly
 The finished PCBs looks like a following image.
 
 ![ilwolBuildAssembly](../images/ilwolBuildAssembly.jpg)
@@ -85,6 +85,12 @@ The finished PCBs looks like a following image.
 If you're a keyboard enthusiast, I'd recommend installing stabilizers at keycap positions 2u or larger, as shown in the following photo.
 
 ![ilwolBuildStabilizer](../images/ilwolBuildStabilizer.jpg)
+
+Also, please flash the firmware before assembling the case.
+
+For the RP2040 promicro, hold down the Boot button on the development board while connecting the USB, then drop the .uf2 file onto the removable disk that appears.
+
+For the ATmega32U4 promicro, load the firmware .hex in your flashing tool (e.g., QMK Toolbox). Then, with the USB connected, briefly short RST and GND with a conductor, or solder a 4x4x1.5mm tactile switch to those pads and press it. The Caterina bootloader will activate and the tool will flash the firmware.
 
 # Assembly
 First, assemble plate and switches together with proper direction, and assemble PCB on it.
