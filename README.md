@@ -53,6 +53,12 @@ ilwol can change layout to followings:
 
 - A set of Keycaps, Full-size layout, ANSI preferred.
 
+## Differences between case variations
+
+|Original|Buffed|RoundBuffed|
+|:---:|:---:|:---:|
+|![Base](images/caseBase.png)|![Buff](images/caseBuffed.png)|![Round](images/caseRound.png)|
+
 ## Build Guides and Miscellaneous
 
 [ilwol Build Guide](docs/buildGuide.md)
