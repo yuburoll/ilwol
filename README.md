@@ -55,7 +55,7 @@ ilwol can change layout to followings:
 
 ## Differences between case variations
 
-|Original|Buffed|RoundBuffed|
+|　Original　|　 Buffed 　|RoundBuffed|
 |:---:|:---:|:---:|
 |![Base](images/caseBase.png)|![Buff](images/caseBuffed.png)|![Round](images/caseRound.png)|
 
