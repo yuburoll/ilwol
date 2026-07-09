@@ -55,9 +55,11 @@ ilwol can change layout to followings:
 
 ## Differences between case variations
 
-|Original|Buffed|RoundBuffed|
-|:---:|:---:|:---:|
-|![Base](images/caseBase.png)|![Buff](images/caseBuffed.png)|![Round](images/caseRound.png)|
+|Original|Buffed|RoundBuffed|Frame|
+|:---:|:---:|:---:|:---:|
+|![Base](images/caseBase.png)|![Buff](images/caseBuffed.png)|![Round](images/caseRound.png)|![Frame](images/caseFrame.png)|
+
+(Frame case are lightest option for 3d print, but it cannot use tenting stand)
 
 ## Build Guides and Miscellaneous
 
