@@ -59,7 +59,7 @@ ilwol can change layout to followings:
 |:---:|:---:|:---:|:---:|
 |![Base](images/caseBase.png)|![Buff](images/caseBuffed.png)|![Round](images/caseRound.png)|![Frame](images/caseFrame.png)|
 
-(Frame case are lightest option for 3d print, but it cannot use tenting stand)
+(Frame case are lightest option for 3d print, but it is very brittle)
 
 ## Build Guides and Miscellaneous
 
